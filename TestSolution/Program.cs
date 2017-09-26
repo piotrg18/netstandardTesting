@@ -8,7 +8,9 @@ namespace NetCoreApp20
     {
         public static void Main()
         {
-           ClassImpl l = new ClassImpl();
+           TestLibrary.TestLibrary l = new TestLibrary.TestLibrary();
+           l.Resolve<ClassImpl>("ClassImpl").Display();
+           
            
         }
     }
