@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApp20", "NetCoreApp20.csproj", "{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApp20", ".\TestSolution\NetCoreApp20.csproj", "{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibrary", "..\Library\TestLibrary\TestLibrary.csproj", "{45E181F9-B775-4A12-B565-B93BC08711B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibrary", ".\Library\TestLibrary\TestLibrary.csproj", "{45E181F9-B775-4A12-B565-B93BC08711B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

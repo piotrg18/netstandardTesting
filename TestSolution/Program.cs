@@ -1,6 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿
+
+using TestLibrary;
 
 namespace NetCoreApp20
 {
@@ -8,7 +8,8 @@ namespace NetCoreApp20
     {
         public static void Main()
         {
-
+           ClassImpl l = new ClassImpl();
+           
         }
     }
 }
