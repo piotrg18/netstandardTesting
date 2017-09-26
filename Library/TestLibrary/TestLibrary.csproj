@@ -7,6 +7,7 @@
   <ItemGroup>
     <PackageReference Include="Castle.Core" Version="4.1.1" />
     <PackageReference Include="Castle.Windsor" Version="4.0.0" />
+    <PackageReference Include="XAct.Wintellect.PowerCollections" Version="0.0.1" />
   </ItemGroup>
 
 </Project>

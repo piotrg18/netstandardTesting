@@ -3,6 +3,7 @@ using Castle.Windsor;
 using System;
 using System.Collections.Generic;
 using System.Text;
+using Wintellect.PowerCollections;
 
 namespace TestLibrary
 {
@@ -21,5 +22,7 @@ namespace TestLibrary
             Console.WriteLine("Resolve: " + dummy);
             return _container.Resolve<T>();
         }
+
+        public Bag<int> Create() => new Bag<int>() { 1, 2, 3 };
     }
 }
