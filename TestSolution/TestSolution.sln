@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.26730.16
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NetCoreApp20", "NetCoreApp20.csproj", "{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{92E2A647-9F39-44F7-9AB9-D38B58478DDA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestLibrary", "..\Library\TestLibrary\TestLibrary.csproj", "{45E181F9-B775-4A12-B565-B93BC08711B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69C87B6B-911E-4FE6-9C84-3A1B4DB79A9B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{92E2A647-9F39-44F7-9AB9-D38B58478DDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{92E2A647-9F39-44F7-9AB9-D38B58478DDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{92E2A647-9F39-44F7-9AB9-D38B58478DDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{92E2A647-9F39-44F7-9AB9-D38B58478DDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45E181F9-B775-4A12-B565-B93BC08711B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45E181F9-B775-4A12-B565-B93BC08711B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45E181F9-B775-4A12-B565-B93BC08711B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45E181F9-B775-4A12-B565-B93BC08711B5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
